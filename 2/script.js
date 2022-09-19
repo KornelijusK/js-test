@@ -8,6 +8,7 @@ document.querySelector("div").style.height = "200px";
 
 document.querySelector("div").style.background = "green";
 
+
 setTimeout(() => {
     document.querySelector("div").style.background = "red";
 }, "3000")
